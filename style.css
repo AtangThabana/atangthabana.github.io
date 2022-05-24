@@ -1,0 +1,263 @@
+ body{
+     margin: 0px;
+     margin-right: 0px;
+     margin-left: 0px;
+     padding: 0px;
+     border: 0px;
+
+ }
+ .pg1{
+    background-color:rgb(246, 249, 249);
+    margin: 0px;
+    height: 85vh;
+    margin-top: 5%;
+    background-image:url(images/green/tree1.jpg) ;
+    background-repeat: inherit;
+    color:white ;
+    background-position:fixed ;
+    
+
+}
+.navbar {
+    color: black;
+position: fixed;
+bottom: 90%;
+margin: 0px;
+
+} 
+.hh{
+    float: left;
+    color:black;
+}
+.nav{
+    display: inline-flex;
+    margin-left: 60vw;
+    text-decoration: none;
+
+}
+.nav .na{
+    margin: 10px;
+    list-style: none;
+    text-decoration: none;
+    padding: 5px;
+    color:white;
+    
+}
+.na .v{
+    color:black;
+    text-decoration: none;
+    padding: 5px;
+}
+.v:hover{
+    background-color: rgb(91, 239, 81);
+    border: 1px 1px solid blue;
+    border-radius :12px ;
+    color:white; 
+
+}
+.y{
+    float: right;
+    margin-right: 25vw;
+    justify-content: start;
+    margin-top: 60px;
+    color: white;
+    font-style: italic;
+    font-size:20px ;
+}
+.a{
+    justify-content:right ;
+    color: black;
+ 
+}
+span{
+    background-color:rgb(210, 220, 225);
+    border: 1px solid white;
+    border-radius :12px ;
+    padding: 3px;
+    text-decoration: none;
+    color:white;  
+}
+span:hover{
+    background-color: rgb(50, 253, 9);
+    border:1px 1px solid rgb(200, 200, 225);
+    border-radius: 15px;
+    color:black;
+
+}
+
+a{
+    text-decoration: none;
+}
+.pg2{
+    background-color:rgb(248, 252, 248);
+    height: 80vh;
+    justify-content: flex-start;
+}
+.article{
+    display: inline-flex;
+    margin: 30px;
+    flex: auto;
+    justify-content: first baseline;
+
+ 
+}
+.kk{
+    
+    text-align: center;
+    color: black;
+    text-shadow: blue;
+
+}
+h2{
+    text-align: center;
+    text-shadow: 10px blue;
+}
+.div{
+    display: block;
+    margin: 5px;
+    justify-content: center;
+  
+}
+section{
+    margin: 0px;
+}
+.section{
+    /* margin-left: 200px; */
+    text-align: center;
+
+
+}
+.jj{
+    background-color: rgb(0, 179, 255);
+    color: white;
+    padding: 20px;
+}
+.mm{
+    justify-content: center;
+    margin-right: 50px;
+    margin-top: 10px; 
+}
+.pg3{
+    background-color: rgb(237, 244, 237);
+    
+}
+.container{
+   display: inline-flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: px; ;
+    justify-content: space-between;
+    height: 100vh;
+
+}.port{
+    text-align: center;
+}
+.hire .ir{
+    float: right;
+    border: 1px solid;
+    border-radius: 12px;
+    padding: 1px;
+    font-size: 20px;
+    color: black;
+    
+}
+.hire .ir:hover{
+    background-color: rgba(217, 219, 221, 0.712);
+    border-radius: 80px;
+    color: chartreuse;
+ 
+}
+.pg4{
+    margin: 100px;
+}
+
+
+.dot{
+    display: inline-flex;
+    text-decoration: none;
+
+}
+
+.dot .list{
+    margin: 3px;
+    list-style: none;
+    text-decoration: none;
+    padding: 5px;
+    color:rgba(0, 0, 0, 0.005);
+   
+    
+}
+.list .t{
+    color:black;
+    text-decoration: none;
+    padding: 0px;
+    font-size: 50px;
+    
+}
+.list .t:hover{
+    border:1px 1px solid blue;
+    border-radius: 80px;
+    color: chartreuse; 
+
+}
+.pg5{
+    background-color: rgb(246, 249, 249);
+    text-align: center;
+}
+
+.footer{
+    display: inline-flex;
+
+    text-decoration: none;
+
+}
+footer{
+    text-align: center;
+}
+.footer .foo{
+    margin: 10px;
+    list-style: none;
+    text-decoration: none;
+    padding: 5px;
+    color:black;
+    
+}
+.foo .f{
+    color:black;
+    text-decoration: none;
+    
+    padding: 5px;
+}
+.foo .f:hover{
+    
+    border: 1px 1px solid blue;
+    border-radius :12px ;
+    color:white;
+    background-color: chartreuse;  
+}
+.logo{
+    display: inline-flex;
+    text-decoration: none;
+    text-shadow: blue;
+}
+.logo .log{
+    margin: 10px;
+    list-style: none;
+    text-decoration: none;
+    padding: 5px;
+    color:black;
+    
+}
+.log.g{
+    color:black;
+    text-decoration: none;
+    
+    padding: 5px;
+}
+.log .g:hover{
+    
+    border: 1px 1px solid blue;
+    border-radius :12px ;
+    color: blue;
+   
+}
